@@ -23,7 +23,7 @@ I'm **Gabriele** web developer from 🇮🇹 **Florence, Italy**.
 </p>
 
 #### 📘 About me:
-- ☀️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.md`
+- ☀️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.md`, `.sh`
 - 🎉 **Linux** & **Open Source** enthusiast
 - 🌱 I’m currently learning **C#** and .**NET world**
 - 🔭 I’m looking to collaborate for **new projects** (Open Source it's better 😉)
