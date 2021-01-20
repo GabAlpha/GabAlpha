@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40"/> Hi! Welcome to my profile
 
-I'm **Gabriele** web developer from 🇮🇹 **Florence, Italy**.
+I'm **Gabriele** web developer from <a href="#"><img alt="ITFlag" src="https://image.flaticon.com/icons/svg/323/323325.svg" width="12"/></a> **Florence, Italy**.
 
 #### ⭕ I like working with:
 <p>
@@ -13,7 +13,7 @@ I'm **Gabriele** web developer from 🇮🇹 **Florence, Italy**.
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
   <a href="#"><img alt="D3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
