@@ -16,6 +16,7 @@ I'm **Gabriele** web developer from <a href="#"><img alt="ITFlag" src="https://i
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
   <a href="#"><img alt="D3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
+  <a href="#"><img alt="P5js" src="https://img.shields.io/badge/-P5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white" /></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white"/></a>
