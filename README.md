@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40"/> Hi! Welcome to my profile
 
-I'm **Gabriele** web developer from <a href="#"><img alt="ITFlag" src="https://image.flaticon.com/icons/svg/323/323325.svg" width="12"/></a> **Florence, Italy**.
+I'm **Gabriele** web developer from 🇮🇹 **Milan, Italy**.
 
 #### ⭕ I like working with:
 <p>
