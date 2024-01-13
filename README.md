@@ -10,8 +10,10 @@ I'm **Gabriele** web developer from 🇮🇹 **Milan, Italy**.
   <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a>
   <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-4e629a?style=flat-square&logo=mariadb&logoColor=white" /></a>
+  <a href="#"><img alt="Go" src="https://img.shields.io/badge/-Go-2fadd5?style=flat-square&logo=Go&logoColor=white" /></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
@@ -24,9 +26,9 @@ I'm **Gabriele** web developer from 🇮🇹 **Milan, Italy**.
 </p>
 
 #### 📘 About me:
-- ☀️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.md`, `.sh`
+- ☀️ I use daily: `.ts`, `.tsx`, `.js`, `.go`, `.scss`, `.md`, `.sh`
 - 🎉 **Linux** & **Open Source** enthusiast
-- 🌱 I’m currently learning **C#** and .**NET world**
+- 🌱 I’m currently learning **Advanced Typescript** and **Go Lang**
 - 🔭 I’m looking to collaborate for **new projects** (Open Source it's better 😉)
 - 💬 Let's talk about: **Coding**, **Web**, **Design** and **Music**
 - 👨‍🍳 **Cooking** lover
@@ -35,5 +37,5 @@ I'm **Gabriele** web developer from 🇮🇹 **Milan, Italy**.
 #### 📨 Reach me!
 <p>
   <a href="https://www.linkedin.com/in/gabriele-alfarano-2231a21a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:gabriele.alfarano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-BD081C?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
+  <a href="mailto:gabalpha@outlook.it"><img alt="Email" src="https://img.shields.io/badge/-Email-BD081C?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 </p>
